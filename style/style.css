@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.navbar a{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.carousel-inner img{
+    height: 800px;
+    margin-top: 1rem;
+}
+
+.container{
+    margin-top: 10px;
+}
+
+.parrafor{
+    font-size: large;
+}
